@@ -37,6 +37,7 @@
     position: absolute;
     top: 190px;
     right: 710px;
+    z-index: 1;
     
 }
 .item:nth-child(3){
